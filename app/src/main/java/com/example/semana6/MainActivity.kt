@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
             val textPeso: String = editTextPeso.getText().toString()
             val resultAltura = textAltura.toFloat() * textAltura.toFloat()
             val result = textPeso.toFloat() / resultAltura
-            textViewResult.setText("Resultado = " + result)
+            textViewResult.setText("Resultado = " + result + "--- Marcelo Paixão")
         }
     }
 

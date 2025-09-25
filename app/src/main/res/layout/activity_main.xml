@@ -8,8 +8,8 @@
     tools:context=".MainActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:layout_width="365dp"
-        android:layout_height="682dp"
+        android:layout_width="383dp"
+        android:layout_height="699dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:ignore="MissingConstraints"
@@ -73,8 +73,8 @@
 
         <TextView
             android:id="@+id/textView3"
-            android:layout_width="196dp"
-            android:layout_height="55dp"
+            android:layout_width="234dp"
+            android:layout_height="71dp"
             android:text="Resultado ="
             android:textSize="20dp"
             app:layout_constraintBottom_toBottomOf="parent"
